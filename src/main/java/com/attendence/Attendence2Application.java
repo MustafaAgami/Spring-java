@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Attendence2Application {
 
 	public static void main(String[] args) {
-		//attendence done
+		//attendence done fine
 		SpringApplication.run(Attendence2Application.class, args);
 	}
 
