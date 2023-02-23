@@ -7,7 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Attendence2Application {
 
 	public static void main(String[] args) {
+
 		//attendence done fine
+
+		//added in the testing
+
 		SpringApplication.run(Attendence2Application.class, args);
 	}
 
